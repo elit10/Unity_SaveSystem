@@ -101,15 +101,6 @@ public class kayıtDüzenleyici: MonoBehaviour
     }
 
 
-
-    private void Update()
-    {
-
-
-    }
-
-
-
     public void VektöreÇevir()
     {
 
